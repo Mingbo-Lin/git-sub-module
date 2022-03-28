@@ -1,1 +1,2 @@
 this is a test of submodule
+this is a test of submodule-2
