@@ -1,4 +1,4 @@
-this is a test of submodule
+this is a test of submodule-1
 this is a test of submodule-2
 this is a test of submodule-3
 this is a test of submodule-4
