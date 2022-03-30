@@ -1,4 +1,3 @@
-this is a test of submodule-2
 this is a test of submodule-3
 this is a test of submodule-4
 this is a test of submodule-5
